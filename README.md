@@ -13,7 +13,7 @@
 
 ### 📗 2nd Semester
 - **Lowest Common Ancestor (DSA)**
-- **Motion Sensor Device**
+- **Motion Sensor Device (Electronics)**
 
 ### 📙 3rd Semester
 - **Pet Adoption System (C++)**
