@@ -1,8 +1,8 @@
 ## Hi  I'm Vaani
 
 🎓 B.Tech student passionate about core Computer Science  
-💻 Learning C, C++, Data Structures & Algorithms  
-📚 Currently exploring DBMS and Operating Systems  
+💻 Full Stack Developer, SQL
+📚 Learning C, C++, Data Structures & Algorithms  
 
 ---
 
@@ -22,6 +22,7 @@
 ---
 
 ## 🛠️ Skills
+- Java
 - C, C++
 - DSA, OOPS
-- DBMS & OS (learning)
+- SQL
